@@ -15,6 +15,9 @@ Windows:
 Figma.exe --args --remote-debugging-port=7575
 ```
 
+---
+Then
+
 ```
 npm install
 
